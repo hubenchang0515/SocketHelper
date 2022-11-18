@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Selector.qml</file>
+        <file>LineInput.qml</file>
+        <file>Panel.qml</file>
+        <file>PushButton.qml</file>
+    </qresource>
+</RCC>
